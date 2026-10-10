@@ -9,7 +9,7 @@ const Navbar = () => {
         <h1 className=' px-5 py-3 font-sans'>serve</h1>
       <div className=' parent-2   flex justify-between gap-3 ml-65'>
         <Link to='/Home'>
-      <h1 className='test-5xl ps-60transition duration-500 hover:bg-blue-300 font-sans py-3 cursor-pointer'>home</h1>
+      <h1 className='test-5xl ps-60transition duration-500 hover:bg-blue-350 font-sans py-3 cursor-pointer'>home</h1>
       </Link>
 
       <Link to='/Services'>
